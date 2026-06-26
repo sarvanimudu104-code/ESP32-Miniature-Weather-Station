@@ -8,7 +8,7 @@ messages, and daily temperature range on an SSD1306 OLED.
 The main firmware is in:
 
 ```text
-firmware/ESP32_Miniature_OLED_Weather_Station_SSD1306_v01/
+/ESP32_Miniature_OLED_Weather_Station_SSD1306_v01/
 ```
 
 ## Project Overview
@@ -76,11 +76,11 @@ Core components:
 | Wind Speed Sensor | GND | GND | Ground | Common ground |
 
 Detailed wiring documentation is available in
-[docs/Wiring_Table.md](docs/Wiring_Table.md).
+[Wiring_Table.md](Wiring_Table.md).
 
 ## Circuit Diagram
 
-The GitHub-ready circuit diagram target is [Circuit_v2.png](Circuit_v2.png).
+The GitHub-ready circuit diagram target is [Circuit.png](Circuit.png).
 
 ## Working Principle
 
