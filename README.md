@@ -80,7 +80,7 @@ Detailed wiring documentation is available in
 
 ## Circuit Diagram
 
-The GitHub-ready circuit diagram target is [circuit and related images/circuit.png](circuit and related images/circuit.png).
+The GitHub-ready circuit diagram target is [circuit.png](circuit and related images/circuit.png).
 
 ## Working Principle
 
@@ -161,14 +161,6 @@ Out of scope for this version:
 - AI or machine learning forecasting
 - Deep sleep
 
-## Resume Highlights
-
-Suggested resume bullet:
-
-> Built an ESP32-based weather monitoring station using BME280 I2C sensing,
-> SSD1306 OLED UI, GPIO interrupt wind-speed measurement, NTP time sync,
-> rule-based weather/comfort status, daily min/max tracking, and sensor fault
-> handling.
 
 Skills demonstrated:
 
