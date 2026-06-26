@@ -80,7 +80,7 @@ Detailed wiring documentation is available in
 
 ## Circuit Diagram
 
-The GitHub-ready circuit diagram target is [circuit.png](circuit and related images/circuit.png).
+The GitHub-ready circuit diagram is available at [circuit.png](circuit%20and%20related%20images/circuit.png).
 
 ## Working Principle
 
